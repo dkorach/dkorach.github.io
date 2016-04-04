@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ruby Classes and OOD
+title: Ruby Classes
 date: 2016-04-04 09:21:30
 comments: true
 description: "An informative post on the advantages of classes and OOD"
