@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Artificial Intelligence 
-date: 2016-04-014 08:50:25
+date: 2016-04-14 08:50:25
 comments: true
 description: "A basic introduction into AI"
 keywords: "AI"
