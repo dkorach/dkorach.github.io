@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cookies vs Sessions
+date: 2016-05-06 09:15:00
+comments: true
+description: "Cookies vs Sessions"
+keywords: "Cookies, Sessions"
+categories:
+- CS
+tags:
+- Cookies
+- Sessions
+---
+Cookies and sessions are two aspects of browser technology and security that play an integral role in user experience and security while browsing the web. Firstly, what is a cookie? A cookie is a small piece of code in the form of text stored on the computer of a user that is inserted by their browser when a website they visit requests it. Every time that the browser being used by the user interacts with a web server it will pass along the cookie information received from the website to the web server. However, only cookies stored by one specific domain by the browser are sent to that web server, meaning only cookies relating to a single website will be sent to that respective server. Cookies often hold data and other user information to make their web experience more simple, fast, and enjoyable. Other uses that you will often see cookies as the tool of choice for web programmers are authentication (passwords and other security), site preferences whether they be aesthetic or part of the site experience, a collection of items in a shopping cart, or finally server session ID. Overall, cookies are an integral part of both user and programming use on the internet and are a helpful tool in the improvement of user experience and security. Sessions are similar to cookies although they utilize two different types in that they are made up of a server-side cookie and a client-side cookie. The main advantage of sessions is that the client-side cookie only contains a reference code to the server where the server-side cookie and its data are stored. While the premise of sessions may seem clunky and unnecessary, they often greatly reduce the bandwidth necessary by only storing data on the server side, also improving on security by not soaring data on the often vulnerable client side. Both cookies and sessions have immense benefits and uses in the area of user experience and security and together allow websites to securely create the best experience possible for their users. 
+
+
+Sources:
+http://stackoverflow.com/questions/6339783/what-is-the-difference-between-sessions-and-cookies-in-php
+http://www.lassosoft.com/Tutorial-Understanding-Cookies-and-Sessions
+http://www.hackingwithphp.com/10/0/0/cookies-and-sessions
